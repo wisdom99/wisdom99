@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ifeanyi Wisdom Chibueze 
 - 👀 I’m interested in developing and engineering softwares
 - Have basic and foundamental skills on java and javascript programming languages
-- 🌱 I’m currently learning and working in Backend development (node.js, express,js), Frontend(react )
+- 🌱 I’m currently learning and working in Backend development (springboot)
 - 💞️ I’m looking to collaborate on springboot projects, java, express and node.js, REST API's 
 - 📫 How to reach me ifeanyiwisdom388@gmail.com & 09030581418
 
